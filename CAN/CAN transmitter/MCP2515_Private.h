@@ -1,11 +1,4 @@
-/*
- *
- * MCP2515_Private.h
- * Created on:
- * Version: 02
- * Author: Eng. Ahmed Abdelshafy
- * 
- */
+
 #ifndef MCP2515_PRIVATE_H_
 #define MCP2515_PRIVATE_H_
 

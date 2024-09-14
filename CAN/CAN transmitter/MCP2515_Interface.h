@@ -1,11 +1,5 @@
-/*
- *
- * MCP2515_Interface.h
- * Created on:
- * Version: 02
- * Author: Eng. Ahmed Abdelshafy
- * 
- */
+
+
 #ifndef MCP2515_INTERFACE_H_
 #define MCP2515_INTERFACE_H_
 

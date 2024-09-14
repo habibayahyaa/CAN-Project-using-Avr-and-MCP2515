@@ -1,11 +1,4 @@
-/*
- *
- * MCP2515_Program.c
- * Created on:
- * Version: 02
- * Author: Eng. Ahmed Abdelshafy
- * 
- */
+
 #include "STD_TYPE.h"
 #include "SPI_Interface.h"
 #include "MCP2515_Interface.h"
